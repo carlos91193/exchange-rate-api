@@ -8,7 +8,7 @@ Cómo ejecutar el proyecto:
 
 Clona el repositorio:
 
-git clone https://github.com/tu-usuario/exchange-rate-api.git  
+git clone https://github.com/carlos91193/exchange-rate-api.git  
 cd exchange-rate-api
 
 Ejecutar la aplicación:
