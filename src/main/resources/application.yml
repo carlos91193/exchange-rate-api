@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+spring:
+  r2dbc:
+    url: r2dbc:h2:mem:///exchangeDb;DB_CLOSE_DELAY=-1
+    username: sa
+    password:
+  h2:
+    console:
+      enabled: true
+  main:
+    web-application-type: reactive
+    allow-bean-definition-overriding: true
